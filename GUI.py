@@ -1,5 +1,5 @@
 # FishinFrenzy\GUI.py
-# Sabina Maddila
+# Kharis Xavier, Sabina Maddila, Willy Vasquez
 # 01.20.2012
 
 # *Classes:

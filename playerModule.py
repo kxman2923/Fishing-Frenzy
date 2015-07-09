@@ -1,6 +1,6 @@
 ###################################################
 #          Player class for Fishin' Frenzy
-#                 by Willy Vasquez
+#                 by Kharis Xavier, Sabina Maddila, Willy Vasquez
 #
 
 
